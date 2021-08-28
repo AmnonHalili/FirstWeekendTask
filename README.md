@@ -4,18 +4,18 @@ _read all the tasks before starting_
 
 ## Your tasks:
 
-- [ ] Fork this repository to your github
-- [ ] With github desktop clone the repo and open it in vs code
-- [ ] Fulfill the user stories and get all of the tests to pass
-- [ ] For <strong>each</strong> user story submit a commit to github
-- [ ] Give it your own personal style
-- [ ] After finishing all the tasks submit a link to your repo in the google classroom
-- [ ] Indent your code!
-- [ ] Make the commit message meaningful
+- [v] Fork this repository to your github
+- [v] With github desktop clone the repo and open it in vs code
+- [v] Fulfill the user stories and get all of the tests to pass
+- [v] For <strong>each</strong> user story submit a commit to github
+- [v] Give it your own personal style
+- [v] After finishing all the tasks submit a link to your repo in the google classroom
+- [v] Indent your code!
+- [v] Make the commit message meaningful
 - [ ] Bonus - Submit issues on your friends repos with improvements suggestions
-- [ ] Bonus - replace the <script> tag with local version of the tests files instead of the url version provided
-- [ ] Bonus - deploy your project to github pages
-- [ ] Bonus - add local img to your repo and add it to your website
+- [v] Bonus - replace the <script> tag with local version of the tests files instead of the url version provided
+- [v] Bonus - deploy your project to github pages - Done: https://amnonhalili.github.io/FirstWeekendTask/ 
+- [v] Bonus - add local img to your repo and add it to your website
 
 Use HTML and CSS to complete this project. Happy coding!
 

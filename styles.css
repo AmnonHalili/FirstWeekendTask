@@ -1,10 +1,16 @@
 nav#navbar {
   position: fixed;
   left: 0;
+
 }
 
-main#main-doc{
+body { 
+   background-color: greenyellow;
+}
+
+main#main-doc {
   margin-left: 30%;
+  background-color: green;
 }
 
 @media (max-width: 600px) {
@@ -15,4 +21,10 @@ main#main-doc{
 
 navbar a {
   font-size: 30px;
+}
+
+section.main-section header {
+  color: darkslategray;
+  font-size: x-large;
+  font-family: Arial, Helvetica, sans-serif;
 }

@@ -1,0 +1,18 @@
+nav#navbar {
+  position: fixed;
+  left: 0;
+}
+
+main#main-doc{
+  margin-left: 30%;
+}
+
+@media (max-width: 600px) {
+  body {
+    background-color: olive;
+  }
+}
+
+navbar a {
+  font-size: 30px;
+}
